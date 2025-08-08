@@ -59,10 +59,10 @@ N = Number of trackballs
 | 42x       |    | x   |     | 1N4148 SMD SOD-123 Resistors                      |                                   |
 | 54x       |    |     | x   | 1N4148 SMD SOD-123 Resistors                      |                                   |
 | 1xN       | x  | x   | x   | Trackball Mount    (one should be flipped)        |                                   |
-| 1xN       | x  | x   | x   | Trackball PCB                                     | [Repo](https://github.com/Good-Great-Grand-Wonderful/PMW3360DM-T2QU)                                  |
+| 1xN       | x  | x   | x   | Trackball PCB                                     | [Repo](https://github.com/Good-Great-Grand-Wonderful/PMW3360DM-T2QU) |
 | 1xN       | x  | x   | x   | PMW3360DM-T2QU + LM19-LSI                         | or sub a PMW3389                  |
-| 1xN       | x  | x   | x   | Trackball Carrier Base                            |                                   |
-| 1xN       | x  | x   | x   | Trackball Carrier Top                             |                                   |
+| 1xN       | x  | x   | x   | Trackball Carrier Base                            | [Repo](https://github.com/Good-Great-Grand-Wonderful/PMW3360DM-T2QU) |
+| 1xN       | x  | x   | x   | Trackball Carrier Top                             | [Repo](https://github.com/Good-Great-Grand-Wonderful/PMW3360DM-T2QU) |
 
 
 
