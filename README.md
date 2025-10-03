@@ -35,10 +35,10 @@ N = Number of trackballs
 
 | Qty       |3x5 | 3x6 | 4x6 | Item                                              | Notes                             |
 |-----------|----|-----|-----|---------------------------------------------------|-----------------------------------|
-| 24        | x  | x   | x   | 3mm Heat set inserts                              |                                   |
-| 16        | x  | x   | x   | 3mm x 5mm Hex Bolts                               | +2 for every trackball you delete |
-| 2xN       | x  | x   | x   | 3mm x 12mm Hex Bolts                              |                                   |
-| 2xN       | x  | x   | x   | 3mm x 8mm Hex Bolts                               |                                   |
+| 24        | x  | x   | x   | M3 Heat set inserts                               |                                   |
+| 16        | x  | x   | x   | M3 x 5mm Hex Bolts                                | +2 for every trackball you delete |
+| 2xN       | x  | x   | x   | M3 x 12mm Hex Bolts                               |                                   |
+| 2xN       | x  | x   | x   | M3 x 8mm Hex Bolts                                |                                   |
 | 1         | x  | x   | x   | Thumb Cluster PCB Panel                           |                                   |
 | 4         | x  | x   | x   | Hirose FH12-14S 0.5SH 1x14 1MP P0.50mm Horizontal |                                   |
 | 2         | x  | x   | x   | SM06B-SRSS-TB(LF)(SN)                             |                                   |
