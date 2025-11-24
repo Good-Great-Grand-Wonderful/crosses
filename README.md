@@ -40,8 +40,7 @@ N = Number of trackballs
 | 1         | x  |     |     | 3x5 Matrix PCB Panel                              |                                   |
 | 1         |    | x   |     | 3x6 Matrix PCB Panel                              |                                   |
 | 1         |    |     | x   | 4x6 Matrix PCB Panel                              |                                   |
-| 2         | x  |     |     | 100mm 14p 0.5mm pitch FFC cables                  |                                   |
-| 2         |    | x   | x   | 150mm 14p 0.5mm pitch FFC cables                  |                                   |
+| 2         | x  | x   | x   | 150mm 14p 0.5mm pitch FFC cables                  |                                   |
 | 1xN       | x  | x   | x   | 100mm 6p JST SH 1.0 Same direction cables         |                                   |
 | 2x        | x  | x   | x   | Thumb Cluster Case (one should be flipped)        |                                   |
 | 2x        | x  |     |     | 3x5 Matrix Case    (one should be flipped)        |                                   |
@@ -53,11 +52,11 @@ N = Number of trackballs
 | 36x       | x  |     |     | 1N4148 SMD SOD-123 Resistors                      |                                   |
 | 42x       |    | x   |     | 1N4148 SMD SOD-123 Resistors                      |                                   |
 | 54x       |    |     | x   | 1N4148 SMD SOD-123 Resistors                      |                                   |
-| 1xN       | x  | x   | x   | Trackball Mount    (one should be flipped)        |                                   |
-| 1xN       | x  | x   | x   | Trackball PCB                                     | [Repo](https://github.com/Good-Great-Grand-Wonderful/PMW3360DM-T2QU) |
-| 1xN       | x  | x   | x   | PMW3360DM-T2QU + LM19-LSI                         | or sub a PMW3389                  |
-| 1xN       | x  | x   | x   | Trackball Carrier Base                            | [Repo](https://github.com/Good-Great-Grand-Wonderful/PMW3360DM-T2QU) |
-| 1xN       | x  | x   | x   | Trackball Carrier Top                             | [Repo](https://github.com/Good-Great-Grand-Wonderful/PMW3360DM-T2QU) |
+| 2         | x  | x   | x   | Trackball Mount                                   | `models` directory                |
+| 1xN       | x  | x   | x   | Trackball PCB                                     |                                   |
+| 1xN       | x  | x   | x   | PMW3610                                           |                                   |
+| 1xN       | x  | x   | x   | Trackball Carrier Base                            | `models` directory                |
+| 1xN       | x  | x   | x   | Trackball Carrier Top                             | `models` directory                |
 
 
 
