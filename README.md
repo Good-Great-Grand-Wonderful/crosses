@@ -16,12 +16,7 @@ Available at http://ergokeyboards.com
 - Optional OLED screens
 
 ### Firmware
-
-QMK: https://github.com/Good-Great-Grand-Wonderful/qmk_firmware/tree/gggw/crosses
-
-Vial: https://github.com/Good-Great-Grand-Wonderful/crosses-vial-qmk/tree/gggw/crosses
-
-ZMK(testing): https://github.com/Good-Great-Grand-Wonderful/crosses-zmk
+ZMK: https://github.com/Good-Great-Grand-Wonderful/crosses-zmk
 
 ### Gerbers
 
